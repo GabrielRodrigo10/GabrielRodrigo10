@@ -1,7 +1,6 @@
 - 👋 Oi, eu sou @GabrielRodrigo10
-- 👀 Estou interessado em aprender mais sobre HTML e iniciar em Game Design
-- 🌱 Atualmente estou estudando HTML e CSS na Alura
-- 💞️ Os códigos dos cursos podem ser úteis, se eu puder ajudar em algo mais
+- 👀 Estou aprendendo Programação Front End e futuramente Game Design 
+- 🌱 Atualmente estou cursando Gestão da Tecnologia da Informação na Fatec Tatuí e participando de Bootcamps da DIO
 - 📫 Me contate pelo email gabrielrodrigo1970@gmail.com
 
 <!---
